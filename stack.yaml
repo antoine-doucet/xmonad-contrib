@@ -2,7 +2,7 @@
 # of X11 and xmonad
 
 resolver: lts-18.14
-
+allow-newer: true
 packages:
 - ./
 
